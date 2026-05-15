@@ -1,4 +1,4 @@
-# 
+# elite Polymarket Module | custom-strategies + API-integration is the best Polymarket module, featuring custom-strategies and API-integration. Smart, fast, and optimized for
 
 
 
